@@ -1,5 +1,8 @@
+<script setup>
+import '@/assets/css/app.css'
+</script>
 <template>
   <div>
-    <NuxtWelcome />
+    <NuxtPage />
   </div>
 </template>
